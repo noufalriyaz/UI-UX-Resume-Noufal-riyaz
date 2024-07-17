@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Noufal Riyaz - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+        }
+        header {
+            background: #35424a;
+            color: white;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #e8491d 3px solid;
+        }
+        header h1 {
+            margin: 0;
+            text-align: center;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        h2 {
+            color: #e8491d;
+        }
+        h3 {
+            margin-bottom: 5px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Noufal Riyaz</h1>
+        </div>
+    </header>
+
+    <div class="container">
+        <section class="section">
+            <h2>Contact Information</h2>
+            <p>Email: noufalriyaz20@gmail.com</p>
+            <p>Phone: +91 9544889253</p>
+            <p>Website: noufalriyaz.taplink.ws</p>
+        </section>
+
+        <section class="section">
+            <h2>Summary</h2>
+            <p>Passionate about continuous learning and poised to make meaningful contributions in a dynamic and fast-paced environment, leveraging UI/UX design expertise.</p>
+        </section>
+
+        <section class="section">
+            <h2>Experience</h2>
+            <h3>UI UX Intern - AI Genie, Remote (Mumbai)</h3>
+            <p>March 2024 – Present</p>
+            <ul>
+                <li>Crafted visually compelling and user-friendly interfaces</li>
+                <li>Enhanced user experience through intuitive design solutions</li>
+                <li>Collaborated with cross-functional teams to translate client requirements into innovative designs</li>
+            </ul>
+
+            <h3>UI UX Intern - Mentorow, Kochi</h3>
+            <p>August 2023 – February 2024</p>
+            <ul>
+                <li>Engaged in the full design process from user research to prototyping and testing</li>
+                <li>Collaborated with various departments to create captivating and user-friendly solutions</li>
+                <li>Enhanced overall usability of the product</li>
+            </ul>
+
+            <h3>Executive Management Assistant - Muscons, Palakkad</h3>
+            <p>August 2021 – October 2022</p>
+            <ul>
+                <li>Handled staffing, supplies, and finances</li>
+                <li>Ensured smooth operations to allow leadership to focus on strategic goals</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Education</h2>
+            <h3>UI UX Designer - Mentorow, Kochi</h3>
+            <p>Class of 2023</p>
+            <ul>
+                <li>Mastered wireframing, prototyping, and usability testing</li>
+                <li>Focused on creating user-friendly digital experiences</li>
+            </ul>
+
+            <h3>Bachelor of Business Administration - Calicut University</h3>
+            <p>Class of 2018</p>
+            <ul>
+                <li>Developed skills in analysis, decision-making, and strategic thinking</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Skills</h2>
+            <ul>
+                <li>UI Design</li>
+                <li>UX Research</li>
+                <li>Wireframing</li>
+                <li>Prototyping</li>
+                <li>Design Systems</li>
+                <li>Strategic Planning</li>
+                <li>Storytelling</li>
+                <li>Information Architecture</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Tools</h2>
+            <ul>
+                <li>Figma</li>
+                <li>Notion</li>
+                <li>Whimsical</li>
+                <li>Miro</li>
+                <li>VS Code</li>
+                <li>GitHub</li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>Tailwind CSS</li>
+                <li>Unity</li>
+                <li>Spline</li>
+                <li>Webflow</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Accomplishments</h2>
+            <h3>Cracked design challenge (2023)</h3>
+            <p>Selected as a Junior UI/UX Designer after successfully overcoming the challenges presented during our institute's selection process.</p>
+        </section>
+    </div>
+</body>
+</html>
